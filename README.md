@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-for demo purposes
+for demo purposes - now edited!
